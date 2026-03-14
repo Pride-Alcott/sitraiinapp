@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Siemens Training Centre — Web App
 
 React + Vite + Tailwind app for the Siemens Training Centre at Nelson Mandela University.
@@ -125,3 +126,7 @@ src/
   utils.ts            # createPageUrl helper
   index.css           # Tailwind + CSS variables
 ```
+=======
+# sitraiinapp
+Sitrain website
+>>>>>>> 21edeff02557255fdd62681009b70f8ad06f4524
